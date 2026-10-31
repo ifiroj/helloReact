@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/helloReact/static/js/main.b9099442.js",
-    "index.html": "/helloReact/index.html",
-    "main.b9099442.js.map": "/helloReact/static/js/main.b9099442.js.map"
+    "main.js": "/static/js/main.b9099442.js",
+    "index.html": "/index.html",
+    "main.b9099442.js.map": "/static/js/main.b9099442.js.map"
   },
   "entrypoints": [
     "static/js/main.b9099442.js"
